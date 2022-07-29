@@ -6,9 +6,9 @@ welcome to my homepage
 
 ## Education
 
-2017-2020 Master's Degree Nanjing Normal University Geography Information Science   
+2017-2020   Master's Degree   Nanjing Normal University   Geography Information Science   
 
-2013-2017 Bachelor's Degree Henan University Geography Information Science   
+2013-2017   Bachelor's Degree   Henan University   Geography Information Science   
 
 
 ## Work experience
@@ -30,4 +30,5 @@ mobilization
 
 
 ## Contact me
+
 15515219638@163.com
