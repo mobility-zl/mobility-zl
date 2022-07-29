@@ -6,20 +6,28 @@ welcome to my homepage
 
 ## Education
 
-2017-2020 Master's Degree Nanjing Normal University Geography Information Science /t
-2013-2017 Bachelor's Degree Henan University Geography Information Science
+2017-2020 Master's Degree Nanjing Normal University Geography Information Science   
+
+2013-2017 Bachelor's Degree Henan University Geography Information Science   
+
 
 ## Work experience
 
-2020.07-2021.07 CNIPA Patent examiner /t
-2021至今 Swarma Club organizing reading groups, activities, and anything that I want do
+2020.07-2021.07 CNIPA Patent examiner  
+
+2021至今 Swarma Club organizing reading groups, activities, and anything that I want do   
+
 
 ## Interests
 
-human behaviour
-Marginal groups such as women, children, farmers /t
-education /t
-mobilization /t
+human behaviour  
+
+Marginal groups such as women, children, farmers  
+
+education   
+
+mobilization   
+
 
 ## Contact me
 15515219638@163.com
