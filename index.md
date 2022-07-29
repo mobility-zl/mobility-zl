@@ -1,7 +1,8 @@
-welcome to mobility-zl's homepage
-![IMG_2965](https://user-images.githubusercontent.com/17485408/181789706-bb35bd01-9977-4b19-8924-0990925947ff.jpg?v8 =8*8)
+welcome to my homepage
 
-
+<div align=center>
+<img src=https://user-images.githubusercontent.com/17485408/181789706-bb35bd01-9977-4b19-8924-0990925947ff.jpg wigth=80/>
+</div>
 
 ## Education
 
